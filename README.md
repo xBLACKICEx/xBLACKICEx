@@ -11,7 +11,7 @@ i am a 5th-year student at EPITECH. Dedicated and diligent developer. I actively
 ### 💾 I’m currently learning   
 [![Learning](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
 [![Learning](https://skillicons.dev/icons?i=nix)](https://nixos.org/)
-[<img height="42" width="42" src="https://cdn.simpleicons.org/espressif"/>](https://www.rust-lang.org)
+[<img height="42" width="42" src="https://cdn.simpleicons.org/espressif"/>](https://www.espressif.com/en/products/socs/esp32)
 [<img height="52" width="52" src="https://cdn.simpleicons.org/stmicroelectronics"/>](https://en.wikipedia.org/wiki/STM32)
 
 ### 🔧 Tools I work with   
